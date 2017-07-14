@@ -65,7 +65,7 @@ var l_musicRandom = true;
 
 /*Volume de la musiqe
 Mettez un nombre entre 0 et 100*/
-var l_musicVolume = 50;
+var l_musicVolume = 25;
 
 /*Activer les messages personnalisés ? ( "True" pour Oui / "False" pour Non )*/
 var l_messagesEnabled = true;
